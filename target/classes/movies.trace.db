@@ -1,0 +1,39 @@
+2024-11-23 17:15:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+select movie0_.movieid as movieid1_0_, movie0_.leadactor as leadacto2_0_, movie0_.moviename as movienam3_0_ from movie_list movie0_ [42102-214]
+2024-11-23 17:15:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+select movie0_.movieid as movieid1_0_0_, movie0_.leadactor as leadacto2_0_0_, movie0_.moviename as movienam3_0_0_ from movie_list movie0_ where movie0_.movieid=? [42102-214]
+2024-11-23 17:15:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+select movie0_.movieid as movieid1_0_0_, movie0_.leadactor as leadacto2_0_0_, movie0_.moviename as movienam3_0_0_ from movie_list movie0_ where movie0_.movieid=? [42102-214]
+2024-11-23 17:15:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+insert into movie_list (movieid, leadactor, moviename) values (default, ?, ?) [42102-214]
+2024-11-23 17:15:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+select movie0_.movieid as movieid1_0_0_, movie0_.leadactor as leadacto2_0_0_, movie0_.moviename as movienam3_0_0_ from movie_list movie0_ where movie0_.movieid=? [42102-214]
+2024-11-23 17:15:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+select movie0_.movieid as movieid1_0_0_, movie0_.leadactor as leadacto2_0_0_, movie0_.moviename as movienam3_0_0_ from movie_list movie0_ where movie0_.movieid=? [42102-214]
+2024-11-23 17:15:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+select movie0_.movieid as movieid1_0_0_, movie0_.leadactor as leadacto2_0_0_, movie0_.moviename as movienam3_0_0_ from movie_list movie0_ where movie0_.movieid=? [42102-214]
+2024-11-23 17:15:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+insert into movie_list (movieid, leadactor, moviename) values (default, ?, ?) [42102-214]
+2024-11-23 17:15:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+select movie0_.movieid as movieid1_0_0_, movie0_.leadactor as leadacto2_0_0_, movie0_.moviename as movienam3_0_0_ from movie_list movie0_ where movie0_.movieid=? [42102-214]
+2024-11-23 17:15:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+select movie0_.movieid as movieid1_0_0_, movie0_.leadactor as leadacto2_0_0_, movie0_.moviename as movienam3_0_0_ from movie_list movie0_ where movie0_.movieid=? [42102-214]
+2024-11-23 17:15:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+select movie0_.movieid as movieid1_0_0_, movie0_.leadactor as leadacto2_0_0_, movie0_.moviename as movienam3_0_0_ from movie_list movie0_ where movie0_.movieid=? [42102-214]
+2024-11-23 17:15:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+select movie0_.movieid as movieid1_0_0_, movie0_.leadactor as leadacto2_0_0_, movie0_.moviename as movienam3_0_0_ from movie_list movie0_ where movie0_.movieid=? [42102-214]
+2024-11-23 17:15:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIE_LIST" not found; SQL statement:
+select movie0_.movieid as movieid1_0_, movie0_.leadactor as leadacto2_0_, movie0_.moviename as movienam3_0_ from movie_list movie0_ [42102-214]
